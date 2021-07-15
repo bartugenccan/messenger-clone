@@ -1,6 +1,6 @@
-# Starting
+<h1 align="center">
+  <img title="Messenger" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Facebook_Messenger_logo_2018.svg/512px-Facebook_Messenger_logo_2018.svg.png" alt="MESSENGER Logo" width="400" />
+  <br>
+  Messenger Clone Built Using React.JS & Firebase
+</h1>
 
-Run
-1.npm install
-2.npm run build
-3.npm start on your Terminal and you are good to go!
