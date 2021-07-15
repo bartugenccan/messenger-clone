@@ -10,8 +10,10 @@
   <strong><em>Here is the live version:</em></strong> https://messenger-cl-4e219.web.app/
 </p>
   
+# Home Page  
+  
 <div align="center"><a name="menu"></a>
 
-<img src="./public/images/2.PNG">
+<img src="./public/images/1.PNG">
 
 </div>
