@@ -4,3 +4,14 @@
   Messenger Clone Built Using React.JS & Firebase
 </h1>
 
+<p><font size="3">
+  This is a Messenger clone and it lets you chat with other users realtime!
+  <br><br> 
+  <strong><em>Here is the live version:</em></strong> https://messenger-cl-4e219.web.app/
+</p>
+  
+<div align="center"><a name="menu"></a>
+
+<img src="./public/images/2.PNG">
+
+</div>
